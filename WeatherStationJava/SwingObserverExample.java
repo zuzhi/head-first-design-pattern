@@ -6,6 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 public class SwingObserverExample {
+
     JFrame frame;
 
     public static void main(String[] args) {

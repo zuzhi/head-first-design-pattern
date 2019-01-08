@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 public class InputTest {
+
     public static void main(String[] args) throws IOException {
         int c;
         try {
